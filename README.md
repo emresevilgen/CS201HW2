@@ -1,5 +1,5 @@
 # CS201HW2
-The Second Homework of The CS 201 Course
+The Second Homework of The CS 201 - Fundamental Structures of Computer Science I
 
 For the finding nth Fibonacci Number:
 
