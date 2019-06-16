@@ -7,5 +7,5 @@ Algorithm 1: An iterative algorithm which works in O(n) time.
 
 Algorithm 2: A recursive algorithm which works in O(2n) time.
 
-The assignment is at the pdf file.
+The assignment is at the "fall18_cs201_hw2.pdf" file.
 
